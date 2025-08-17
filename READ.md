@@ -1,6 +1,6 @@
 # Responsive Sidebar Task #1
 
-This is a responsive sidebar built with HTML, CSS, and JavaScript. It also has smooth animations and is mobile-friendly design.
+This is a responsive sidebar built with HTML, CSS, and JavaScript. It also has smooth animations and has a mobile-friendly design.
 
 # Features
 - Responsive Design - Works on desktop, tablet, and mobile devices
