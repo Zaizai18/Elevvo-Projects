@@ -3,10 +3,11 @@
   padding: 0px;
 }
 
-body {
+html, body {
   background-color: rgb(210, 181, 145);
   font-family: serif;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 h1{
