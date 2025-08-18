@@ -14,9 +14,11 @@
             padding: 0px;
         }
 
-        body {
+        html, body {
             background-color: rgb(210, 181, 145);
             font-family: serif;
+            overflow-x: hidden;
+            overflow-y: hidden;
         }
         
         h1{
@@ -26,7 +28,6 @@
             margin-left: 282px;
             font-size: 30px;
             padding: 20px; 
-            position: fixed;
         }
 
         #toggleBtn {
@@ -86,7 +87,7 @@
             height: 2px;
             background-color: #ecf0f1;
             background-color: rgb(122, 71, 7);
-            transform: scaleX(0); /* start hidden */
+            transform: scaleX(0); 
             transform-origin: center;
             transition: transform 0.3s ease;
         }
